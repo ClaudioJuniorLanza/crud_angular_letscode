@@ -1,0 +1,10 @@
+{
+    "/todos": {
+      "target": "http://madsti.com.br:9099",
+      "secure": false,
+      "changeOrigin": true,
+      "pathRewrite": {
+        "^/todos": ""
+      }
+    }
+  }
